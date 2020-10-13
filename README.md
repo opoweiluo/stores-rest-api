@@ -1,5 +1,5 @@
-# stores-rest-api
-##Introduction  
+# stores-rest-api  
+## Introduction  
 This is a small project to practice RESTful APIs by using Flask, Python.  
 
 ## Resources
