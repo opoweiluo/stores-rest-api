@@ -41,4 +41,6 @@ This is a small project to practice RESTful APIs by using Flask, Python.
 ### StoreList
 
 - `GET: /stores`
-    - Description: get all stores
+    - Description: get all stores  
+                                      
+## Deployed the resources on this URL: rest-api-course-demo.xyz
